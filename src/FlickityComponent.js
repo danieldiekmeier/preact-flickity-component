@@ -52,10 +52,7 @@ export default class FlickityComponent extends Component {
 }
 
 FlickityComponent.defaultProps = {
-  options: {
-    pageDots: false,
-    wrapAround: true
-  },
+  options: {},
   className: '',
   elementType: 'div'
 }
