@@ -1,6 +1,6 @@
 {
   "name": "preact-flickity-component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Preact compatible version of react-flickity-component",
   "main": "src/FlickityComponent.js",
   "scripts": {
