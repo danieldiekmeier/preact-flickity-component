@@ -1,0 +1,29 @@
+{
+  "name": "preact-flickity-component",
+  "version": "1.0.0",
+  "description": "A Preact compatible version of react-flickity-component",
+  "main": "src/FlickityComponent.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/danieldiekmeier/preact-flickity-component.git"
+  },
+  "keywords": [
+    "preact",
+    "react",
+    "flickity",
+    "slider"
+  ],
+  "author": "Daniel Diekmeier",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/danieldiekmeier/preact-flickity-component/issues"
+  },
+  "homepage": "https://github.com/danieldiekmeier/preact-flickity-component#readme",
+  "peerDependencies": {
+    "flickity": "*",
+    "preact": "*"
+  }
+}
